@@ -1,1 +1,0 @@
-# HACKING_ETICO
